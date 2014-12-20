@@ -8,9 +8,14 @@ The X3 Profile Manager, the "application" hereafter, is the computer software ac
 
 This disclaimer does not provide allowance for the developer of the *application* to incorporate or embed adware, spyware, malware, bombs, or trojans into the *application*.  The *application* has been made freely available for use.
 
-The [X game series](http://en.wikipedia.org/w/index.php?title=X_%28game_series%29&oldid=625298435) is a series of proprietary computer software video games created and developed by Egosoft (www.egosoft.com) and includes the X3 series of games.  The *application* is not a product of nor is it endorsed by Egosoft.  The X3 series of games: "X3: Reunion", "X3: Terran Conflict", "X3: Albion Prelude", and the "X3 Playable Demo" are all products created and developed by Egosoft.  Egosoft is the sole proprietor of those software titles. The developer of the *application* and Egosoft bear no affiliation with each other.
+The [X game series](http://en.wikipedia.org/w/index.php?title=X_%28game_series%29&oldid=625298435) is a series of proprietary computer software video games created and developed by [Egosoft](www.egosoft.com) and includes the X3 series of games.  The *application* is not a product of nor is it endorsed by Egosoft.  The X3 series of games: "X3: Reunion", "X3: Terran Conflict", "X3: Albion Prelude", and the "X3 Playable Demo" are all products created and developed by Egosoft.  Egosoft is the sole proprietor of those software titles. The developer of the *application* and Egosoft bear no affiliation with each other.
 
 Users are advised to purchase and retain personal copies of the X3 series of games from Egosoft before using the *application*.  The user of the *application* is advised that using any of the X3 series of games in a manner inconsistent with its accompanying End User License Agreement may constitute a violation of those terms and result in severe penalties and/or fines levied by Egosoft and/or its constituents.  The *application* and its functions do not grant the user permission to violate terms established between the user and Egosoft.
+
+
+LICENSE
+-------
+The *application* is licensed under the GNU General Public License (GPL) v3.  The full text can be found in the `license.txt` file included in the installation.
 
 
 WARRANTABILITY
@@ -20,19 +25,14 @@ In no way shall this paragraph be construed to conflict with the Warranty diline
 The *application* has been designed and is intended to work with user profile data created by the X3 series of games.  The *application* does not alter data nor program files owned and created by Egosoft software established on your computer.  The *application* has been tested and verified to work with X3: Terran Conflict, X3: Albion Prelude, and the X3 Playable Demo.  The *application* does not require simultaneous operation with any of the X3 series of games to function correctly.  Users are advised to operate the *application* while no other *application*s are running.
 
 
-LICENSE
--------
-The *application* is licensed under the GNU General Public License (GPL).  The full text can be found in the `license.txt` file included in the installation.
-
-
 INSTALLATION
 ------------
 The *application* can be installed using the installation software accompanying this readme.
-1.  Fully extract the contents of the archive containing this readme to a temporary location
-2.  Run 'setup.exe'
-3.  Choose an installation location
-4.  Finish the install
-5.  From the Windows Start menu, choose X3 Profile Manager
+  1. Fully extract the contents of the archive containing this readme to a temporary location
+  2. Run 'setup.exe'
+  3. Choose an installation location
+  4. Finish the install
+  5. From the Windows Start menu, choose X3 Profile Manager
 
 
 UNINSTALL
@@ -52,11 +52,11 @@ A profile is a collection of save game data and settings created by an X3 game a
 
 FAQ
 ---
-Q: Why can't I delete my profile?
+Q: Why can't I delete my profile?  
 A: The profile to be deleted cannot be the currently active profile.  Activate another profile then delete the previously activated profile.
 
-Q: The *application* crashes when I try to activate, backup, restore, or delete a profile. Why?
+Q: The *application* crashes when I try to activate, backup, restore, or delete a profile. Why?  
 A: Close Windows Explorer and any other *application*s (such as Internet browsers, image viewers, etc.) that may be accessing or using files found in the user profiles area of an X3 game.  Try closing all *application*s and reattempting the profile activation.
 
-Q: How many profiles can I create for a given X3 title?
+Q: How many profiles can I create for a given X3 title?  
 A: There is no current limitation.  However, each unique user is advised to own a personal copy of the X3 title being managed by the *application*.

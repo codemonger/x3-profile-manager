@@ -175,7 +175,7 @@ Partial Class frmMain
         'txtProfileName
         '
         Me.txtProfileName.Location = New System.Drawing.Point(6, 29)
-        Me.txtProfileName.MaxLength = 64
+        Me.txtProfileName.MaxLength = 32
         Me.txtProfileName.Name = "txtProfileName"
         Me.txtProfileName.Size = New System.Drawing.Size(163, 20)
         Me.txtProfileName.TabIndex = 1
@@ -298,11 +298,11 @@ Partial Class frmMain
         Me.stsProfileLabel.Size = New System.Drawing.Size(83, 17)
         Me.stsProfileLabel.Text = "stsProfileLabel"
         '
-        'stsConfiguration
+        'stsConfigurationLabel
         '
         Me.stsConfigurationLabel.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text
         Me.stsConfigurationLabel.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Bold)
-        Me.stsConfigurationLabel.Name = "stsConfiguration"
+        Me.stsConfigurationLabel.Name = "stsConfigurationLabel"
         Me.stsConfigurationLabel.RightToLeft = System.Windows.Forms.RightToLeft.Yes
         Me.stsConfigurationLabel.Size = New System.Drawing.Size(127, 17)
         Me.stsConfigurationLabel.Text = "stsConfigurationLabel"
