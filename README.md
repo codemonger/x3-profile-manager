@@ -5,4 +5,8 @@ Manage save game profiles for Egosoft's X3 family of games (Reunion, Terran Conf
 
 For example, start as Argon and create save games.  Then use the X3 Profile Manager tool to create a new profile.  Then you can start the game over as Terran or a different race and create many saves with that profile.  You can do this as many times as you like, as well as switching back to any of the profiles you've already created.
 
+USAGE
+-----
+Download the `ZIP` file from the root directory of this repository. Extract all and run the `Setup` program.
+
 Please see the User-Guide.md from the installation for additional information.
